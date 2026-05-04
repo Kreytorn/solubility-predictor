@@ -1,0 +1,8 @@
+rdkit
+lightgbm
+scikit-learn
+matplotlib
+pandas
+numpy
+pillow
+jupyter
